@@ -1,5 +1,5 @@
 # Teste de symfony
-realizar o download com git clone https://github.com/dddcastro/symfony.git
+realizar o download com git clone https://github.com/dddcastro/teste-back-end-pl-php.git
 composer update
 
 alterar o .env com as informações de conexão mysql
